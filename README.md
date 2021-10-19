@@ -1,16 +1,16 @@
-# The Zeroday Podcast
+# The Unnamed Podcast
 
-![ZeroDay Logo](images/ZeroDay-Podcast-Cover.png)
+![UnNamed Podcast Logo](images/unname-podcast.png)
 
 
 ## About
 ---
-The ZeroDay podcast is the companion podcast to the Zeroday newsletter, a free weekly newsletter covering cybersecurity, cyberattacks, and cyber prevention. This is a podcast about CyberSecurity, the latest corporate cyberattacks attacks, and what you can do to protect your company from the latest cyberattacks. We will also discuss the latest hacks and the latest terminology you need to navigate the ever-changing landscape of cybersecurity. 
+We are still defining hat this podcast is.
 
 
 ## Newsletter
 ---
-You can find the ZeroDay newsletter at [ZeroDay Newsletter](https://zeroday.substack.com/) our website and the podcast on Spotify , Google and iTunes. 
+Non right now
 
 
 ## Links
@@ -22,5 +22,5 @@ You can find the ZeroDay newsletter at [ZeroDay Newsletter](https://zeroday.subs
 
 
 ---
-&copy; 2021 Gregory Coleman
+&copy; 2021 Gregory Coleman & Donovan Johnson
 
