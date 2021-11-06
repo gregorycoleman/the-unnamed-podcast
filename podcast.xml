@@ -21,10 +21,13 @@
 		</itunes:owner>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/unname-podcast.png" />
 		<itunes:category text="Technology" />
-        <itunes:category text="Education" /></itunes:category> 
-        <itunes:category text="Business" /></itunes:category> 
-        <itunes:category text="Technology" /></itunes:category> 
-        
+        <itunes:category text="Education" />
+	    </itunes:category> 
+        <itunes:category text="Technology">
+        <itunes:category text="Computers" />
+        <itunes:category text="Education" />
+        </itunes:category>
+
         <itunes:explicit>no</itunes:explicit>
 		
 {% for post in site.posts %}
