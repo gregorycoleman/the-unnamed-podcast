@@ -22,7 +22,7 @@
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/unname-podcast.png" />
 		<itunes:category text="Technology" />
         <itunes:category text="Enterprise Architecture">
-        <itunes:category text="Cybersecurity" />
+        <itunes:category text="Education, Business, Technology " />
         </itunes:category> 
         <itunes:explicit>no</itunes:explicit>
 		
