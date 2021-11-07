@@ -18,7 +18,9 @@ url: "https://gregorycoleman.github.io" # the base hostname & protocol for your 
 twitter_username: ZerodayNL
 github_username:  ZerodayNL
 
-permalink: /:year/:title.html
+#permalink: /:year/:title.html
+permalink: /:title.html
+
 
 #Timezone
 timezone: United States/New York
