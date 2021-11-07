@@ -18,7 +18,7 @@ Non right now
 
 - [iTunes](https://podcasts.apple.com/us/podcast/unnamed-podcast/id1591027552)
 - [Spotify](https://open.spotify.com/show/1yw5wbr2ws9IFeBsbS4RLQ)
-- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncmVnb3J5Y29sZW1hbi5naXRodWIuaW8vemVyb2RheS1wb2RjYXN0L3BvZGNhc3QueG1s)
+- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncmVnb3J5Y29sZW1hbi5naXRodWIuaW8vdGhlLXVubmFtZWQtcG9kY2FzdC9wb2RjYXN0LnhtbA?sa=X&ved=2ahUKEwj4pdfn2Yb0AhUzNqYKHUovDPgQ9sEGegQIARAC)
 
 
 ---
