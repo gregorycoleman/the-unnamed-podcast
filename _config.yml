@@ -11,7 +11,7 @@ email: beforethepodcast@raydo.com
 description: "The Un Named Podcast"
 subtitle: "A discussion of building a Podcast ."
 lang: en-us
-author: Donovan Johnson and Gregory Coleman
+author: DonOvan Johnson and Gregory Coleman
 copyright: ""
 baseurl: "/the-unnamed-podcast" # the subpath of your site, e.g. /blog
 url: "https://gregorycoleman.github.io" # the base hostname & protocol for your site
