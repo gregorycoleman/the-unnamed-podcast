@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Zeroday"
+title: "About Podcast Breakdown"
 permalink: /about
 ---
 
