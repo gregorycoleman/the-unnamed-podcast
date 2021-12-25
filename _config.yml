@@ -37,3 +37,4 @@ exclude: ['readme.md', 'Gemfile.lock', 'Gemfile']
 theme: jekyll-theme-minimal
 #remote_theme: zerostaticthemes/jekyll-serif-theme
 
+
