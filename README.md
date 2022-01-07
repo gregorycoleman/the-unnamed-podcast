@@ -1,6 +1,6 @@
 # The Unnamed Podcast
 
-![UnNamed Podcast Logo](images/unname-podcast.png)
+![UnNamed Podcast Logo](images/Podcast_Breakdown.png)
 
 
 ## About
